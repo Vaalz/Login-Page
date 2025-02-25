@@ -1,2 +1,2 @@
 # Login-Page
-Login Page by Valz.codes
+learn to create responsive login page
